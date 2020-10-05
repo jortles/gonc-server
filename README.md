@@ -1,3 +1,3 @@
 # gonc-server
 
-# Simple Netcat server written in Go.
+Simple Netcat server written in Go.
